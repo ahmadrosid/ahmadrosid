@@ -23,7 +23,7 @@ Search Engine has been of interest to me since last year. The first search engin
 
 As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP. I am also looking for a job in Rust, which is currently my most favorite language.
 
-### Writing
+### ✍🏻 Writing
 
 You can find my blog posts here, where I write about what I've learned.
 
