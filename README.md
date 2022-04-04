@@ -22,6 +22,13 @@ Search Engine has been of interest to me since last year. The first search engin
 
 As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP. I am also looking for a job in Rust, which is currently my most favorite language.
 
+### Writing
+
+I love to write what I found when I learn somthing, you can find my blog post here.
+- [ahmadrosid.com](https://ahmadrosid.com)
+- [dev.to/ahmadrosid](https://dev.to/ahmadrosid)
+- [freeCodeCamp](https://www.freecodecamp.org/news/author/ahmadrosid) - Currently still working on my first blog post on this platform.
+
 <!--
 **ahmadrosid/ahmadrosid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
