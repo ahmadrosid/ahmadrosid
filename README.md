@@ -25,7 +25,8 @@ As a Backend Developer, I use a variety of programming languages, but I am most 
 
 ### Writing
 
-I love to write what I found when I learn somthing, you can find my blog post here.
+You can find my blog posts here, where I write about what I've learned.
+
 - [ahmadrosid.com](https://ahmadrosid.com)
 - [dev.to/ahmadrosid](https://dev.to/ahmadrosid)
 - [freeCodeCamp](https://www.freecodecamp.org/news/author/ahmadrosid) - Currently still working on my first blog post on this platform.
