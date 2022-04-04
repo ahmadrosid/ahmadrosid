@@ -4,9 +4,9 @@ You can call me **Rosid**, I'm software engineer from Indonesia with focus on Ba
 
 ### 🌱 I’m currently learning Rust
 I started to know rust back in 2019 but starting to start my project in 2022. Here some open source project In Rust.
-- [hl](github.com/ahmadrosid/hl) - Github-like html Syntax highlighting generator.
-- [tpd](github.com/ahmadrosid/tpd) - Typo Detector for English words.
-- [json-list](github.com/ahmadrosid/json-list) - Take json list turn to striing list.
+- [hl](https://github.com/ahmadrosid/hl) - Github-like html Syntax highlighting generator.
+- [tpd](https://github.com/ahmadrosid/tpd) - Typo Detector for English words.
+- [json-list](https://github.com/ahmadrosid/json-list) - Take json list turn to striing list.
 
 
 <!--
