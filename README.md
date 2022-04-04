@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can call me **Rosid**, I'm software engineer from Indonesia with focus on Backend Engineering.
+You can call me **Rosid**, I'm software engineer from Indonesia with focus on Backend Engineering with 7 years of experience.
 
 ### 🌱 I’m currently learning Rust
 
