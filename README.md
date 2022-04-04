@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+You can call me **Rosid**, I'm software engineer from Indonesia with focus on Backend Engineering.
+
+### 🌱 I’m currently learning Rust
+I started to know rust back in 2019 but starting to start my project in 2022. Here some open source project In Rust.
+- [hl](g/ahmadrosid/hl) - Github-like html Syntax highlighting generator.
+- [tpd](g/ahmadrosid/tpd) - Typo Detector for English words.
+- [json-list](g/ahmadrosid/json-list) - Take json list turn to striing list.
+
+
 <!--
 **ahmadrosid/ahmadrosid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
