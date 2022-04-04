@@ -12,9 +12,14 @@ Despite knowing Rust since 2019 and beginning to work on my project in 2022, I'v
 
 ### 🔭 Side Project
 
-Since last year I have interested in Search Engine. My first experience with search engine is Elasticsearch whic is I use at my company. But on my project I decided to use Apache Solr, for me Apache Solr is more simple to work with. This project is Codesearch to that I'm working on which is tough me a lot about inverted index and search engine with Lucene and Solr.
+Search Engine has been of interest to me since last year. The first search engine I used was Elasticsearch, which I use at work. However, on my project, I decided to use Apache Solr, since I find it to be easier to use. Currently I'm working on Codesearch, which teaches me about inverted index and search engines such as Lucene and Solr.
 
 - [heline.dev](https://heline.dev)
+
+
+### 👯 Tools At Work
+
+As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP. I am also looking for a job in Rust, which is currently my most favorite language.
 
 <!--
 **ahmadrosid/ahmadrosid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
