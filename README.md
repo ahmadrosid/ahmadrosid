@@ -3,7 +3,9 @@
 You can call me **Rosid**, I'm software engineer from Indonesia with focus on Backend Engineering.
 
 ### 🌱 I’m currently learning Rust
-I started to know rust back in 2019 but starting to start my project in 2022. Here some open source project In Rust.
+
+Despite knowing Rust since 2019 and beginning to work on my project in 2022, I've only been using it since then. Here are a few open source Rust projects.
+
 - [hl](https://github.com/ahmadrosid/hl) - Github-like html Syntax highlighting generator.
 - [tpd](https://github.com/ahmadrosid/tpd) - Typo Detector for English words.
 - [json-list](https://github.com/ahmadrosid/json-list) - Take json list turn to striing list.
