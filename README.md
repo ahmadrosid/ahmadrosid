@@ -10,6 +10,7 @@ Despite knowing Rust since 2019 and beginning to work on my project in 2022, I'v
 - [tpd](https://github.com/ahmadrosid/tpd) - Typo Detector for English words.
 - [json-list](https://github.com/ahmadrosid/json-list) - Take json list turn to striing list.
 - [npr](https://github.com/ahmadrosid/npr) - Find and execute npm script.
+- [faker-cli](https://github.com/ahmadrosid/faker-cli) - Generate fake data from your terminal.
 
 ### 🔭 Side Project
 
