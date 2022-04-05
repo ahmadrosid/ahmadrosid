@@ -2,6 +2,16 @@
 
 You can call me **Rosid**, I'm software engineer from Indonesia with focus on Backend Engineering with 7 years of experience.
 
+### 👯 Programming Language
+
+As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP. I am also looking for a job in Rust, which is currently my most favorite language.
+
+### 🔭 Side Project
+
+Search Engine has been of interest to me since last year. The first search engine I used was Elasticsearch, which I use at work. However, on my project, I decided to use Apache Solr, since I find it to be easier to use. Currently I'm working on Codesearch, which teaches me about inverted index and search engines such as Lucene and Solr.
+
+- [heline.dev](https://heline.dev)
+
 ### 🌱 I’m currently learning Rust
 
 Despite knowing Rust since 2019 and beginning to work on my project since January 2022, I've only been using it since then. Here are a few open source Rust projects.
@@ -11,17 +21,6 @@ Despite knowing Rust since 2019 and beginning to work on my project since Januar
 - [json-list](https://github.com/ahmadrosid/json-list) - Take json list turn to striing list.
 - [npr](https://github.com/ahmadrosid/npr) - Find and execute npm script.
 - [faker-cli](https://github.com/ahmadrosid/faker-cli) - Generate fake data from your terminal.
-
-### 🔭 Side Project
-
-Search Engine has been of interest to me since last year. The first search engine I used was Elasticsearch, which I use at work. However, on my project, I decided to use Apache Solr, since I find it to be easier to use. Currently I'm working on Codesearch, which teaches me about inverted index and search engines such as Lucene and Solr.
-
-- [heline.dev](https://heline.dev)
-
-
-### 👯 Programming Language I Use
-
-As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP. I am also looking for a job in Rust, which is currently my most favorite language.
 
 ### ✍🏻 Writing
 
