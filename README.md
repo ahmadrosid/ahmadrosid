@@ -4,7 +4,7 @@ You can call me **Rosid**, I'm software engineer from Indonesia with focus on Ba
 
 ### 🌱 I’m currently learning Rust
 
-Despite knowing Rust since 2019 and beginning to work on my project in 2022, I've only been using it since then. Here are a few open source Rust projects.
+Despite knowing Rust since 2019 and beginning to work on my project since January 2022, I've only been using it since then. Here are a few open source Rust projects.
 
 - [hl](https://github.com/ahmadrosid/hl) - Github-like html Syntax highlighting.
 - [tpd](https://github.com/ahmadrosid/tpd) - Typo Detector for English words.
@@ -30,6 +30,11 @@ You can find my blog posts here, where I write about what I've learned.
 - [ahmadrosid.com](https://ahmadrosid.com)
 - [dev.to/ahmadrosid](https://dev.to/ahmadrosid)
 - [freeCodeCamp](https://www.freecodecamp.org/news/author/ahmadrosid) - Currently still working on my first blog post on this platform.
+
+### 📫 How to reach me
+- [twitter.com/_ahmadrosid](https://twitter.com/_ahmadrosid)
+- [linkedin.com/in/ahmadrosid](https://id.linkedin.com/in/ahmadrosid)
+- [Email](mailto:alahmadrosid@gmail.com)
 
 <!--
 **ahmadrosid/ahmadrosid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
