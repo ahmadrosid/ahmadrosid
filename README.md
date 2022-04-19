@@ -4,7 +4,7 @@ You can call me **Rosid**, I'm software engineer from Indonesia with focus on Ba
 
 ### 👯 Programming Language
 
-As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP.
+As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP and Java.
 
 ### 🔭 Side Project
 
