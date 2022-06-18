@@ -28,7 +28,10 @@ You can find my blog posts here, where I write about what I've learned.
 
 - [ahmadrosid.com](https://ahmadrosid.com)
 - [dev.to/ahmadrosid](https://dev.to/ahmadrosid)
+<!---
 - [freeCodeCamp](https://www.freecodecamp.org/news/author/ahmadrosid) - Currently still working on my first blog post on this platform.
+-->
+
 
 ### 📫 How to reach me
 - [twitter.com/_ahmadrosid](https://twitter.com/_ahmadrosid)
