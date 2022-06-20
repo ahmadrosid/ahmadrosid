@@ -8,7 +8,7 @@ As a Backend Developer, I use a variety of programming languages, but I am most 
 
 ### 🔭 Side Project
 
-Search Engine has been of interest to me since last year. The first search engine I used was Elasticsearch, which I use at work. However, on my project, I decided to use Apache Solr, since I find it to be easier to use. Currently I'm working on Codesearch, which teaches me about inverted index and search engines such as Lucene and Solr.
+Search Engine has been of interest to me since 2020. The first search engine I used was Elasticsearch, which I use at work. However, on my project, I decided to use Apache Solr, since I find it to be easier to use. Currently I'm working on Codesearch, which teaches me about inverted index and search engines such as Lucene and Solr.
 
 - [heline.dev](https://heline.dev)
 
@@ -37,18 +37,3 @@ You can find my blog posts here, where I write about what I've learned.
 - [twitter.com/_ahmadrosid](https://twitter.com/_ahmadrosid)
 - [linkedin.com/in/ahmadrosid](https://id.linkedin.com/in/ahmadrosid)
 - [Email](mailto:alahmadrosid@gmail.com)
-
-<!--
-**ahmadrosid/ahmadrosid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
