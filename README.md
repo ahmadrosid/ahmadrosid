@@ -5,7 +5,7 @@ You can call me **Rosid**, I'm software engineer from Indonesia with focus on Ba
 ### 👯 Programming Language
 
 As a Backend Developer, I use a variety of programming languages, but I am most proficient in Javascript/Typescript, Golang, PHP and Java. I also interested in compiler programming. Here is one of my programming language.
-- [yuk](github.com/ahmadrosid/yuk) - Programming language that compile to Go.
+- [yuk](https://github.com/ahmadrosid/yuk) - Programming language that compile to Go.
 
 ### 🔭 Side Project
 
