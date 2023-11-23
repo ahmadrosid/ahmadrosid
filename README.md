@@ -7,7 +7,7 @@ The things I do at the moment:
 - Freelance writer at [Logrocket](https://blog.logrocket.com/author/ahmadrosid/)
 
 I am also open to work if you need a full stack dev or backend dev. I can work with:
-- Golang, Laravel, Nodejs, Typescript and Python
+- Golang, Laravel, Nodejs, Typescript, Rust and Python
 - Next.js, React.js and Remix
 - PostgreSQL, MySQL, Redis and Elasticsearch
 
