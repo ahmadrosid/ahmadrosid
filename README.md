@@ -2,7 +2,7 @@
 
 The things I do at the moment:
 
-- Building [readclip.site](https://redclip.site)
+- Building [readclip.site](https://readclip.site)
 - Writing my blog [ahmadrosid.com](https://ahmadrosid.com)
 - Freelance writer at [Logrocket](https://blog.logrocket.com/author/ahmadrosid/)
 
